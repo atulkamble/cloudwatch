@@ -1,4 +1,4 @@
-# AWS CloudWatch — Training Notes
+# AWS CloudWatch
 
 ## 1. Introduction to Amazon CloudWatch
 
